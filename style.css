@@ -1,0 +1,70 @@
+body {
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    max-width: 900px;
+    margin: auto;
+}
+
+header h1 {
+    font-family: 'Poppins', sans-serif;
+}
+
+.quote-container {
+    max-width: 900px;
+    margin: auto;
+    background-color: white;
+    border: 2px solid black;
+    box-shadow: 5px 5px 0 black;
+}
+
+.quote {
+    font-size: 20px;
+    padding: 15px 15px 0 50px;
+    position: relative;
+    margin-bottom: 0;
+}
+
+#quote .message {
+    padding: 15px 15px 0 50px;
+}
+
+.quote:before {
+    content: '“';
+    font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif;
+    left: 9px;
+    font-size: 70px;
+    position: absolute;
+    top: -14px;
+}
+
+.name {
+    color: gray;
+    padding-left: 30px;
+}
+
+.name:before {
+    content: '-';
+    margin-right: 5px;
+}
+
+.button-container {
+    border-top: 2px solid black;
+    padding: 25px;
+}
+
+.generate-quote {
+    background-color: white;
+    border: 2px solid black;
+    padding: 15px;
+    font-size: 21px;
+    color: black;
+    box-shadow: 5px 5px 0 black;
+}
+
+.generate-quote:hover {
+    box-shadow: 2px 2px 0 black;
+}
