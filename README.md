@@ -4,4 +4,6 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/02399e5f-58d2-4cc5-a2c8-b882340fc9b3/deploy-status)](https://app.netlify.com/sites/thinkful-quote-generator/deploys)
 
+JavaScript is the language of the browser. In this free webinar, you'll learn key jQuery concepts like manipulating the DOM and using event listeners to update your app in real-time.
+
 
